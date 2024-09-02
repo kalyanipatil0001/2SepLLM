@@ -7,20 +7,20 @@ Original file is located at
     https://colab.research.google.com/drive/1UuYB7TDA32gjtuchTY7p4HTIDdOMGX6l
 """
 
-!pip cache purge
+# !pip cache purge
 
-!pip install openai
+# !pip install openai
 
-!pip install LangChain
+# !pip install LangChain
 
-!pip install streamlit
+# !pip install streamlit
 
-!pip install  langchain==0.0.148
+# !pip install  langchain==0.0.148
 
-!pip install pydantic==1.10.6
-!pip install typing-inspect==0.8.0
+# !pip install pydantic==1.10.6
+# !pip install typing-inspect==0.8.0
 
-!pip install langchain_community
+# !pip install langchain_community
 
 import sys
 print(sys.version)
